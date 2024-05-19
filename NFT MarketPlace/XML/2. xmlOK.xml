@@ -1,0 +1,39 @@
+<!-- Este XML representa un tag con una descripción extendida, ejemplos de uso y enlaces.Se utilizará para insertar datos en la tabla de tags.-->
+
+<descripcionExtendida>
+    <!-- Descripción detallada del tag o mas extendida-->
+    <descripcion>
+        Este tag se utiliza para marcar obras de arte digital, proporcionando una identificación única y asegurando su autenticidad en el mundo digital.
+    </descripcion>
+    
+    <!-- Ejemplos de uso del tag -->
+    <ejemplosDeUso>
+        <!-- Primer ejemplo de uso -->
+        <ejemplo>
+            El tag "Arte Digital" se aplica a imágenes creadas digitalmente, como ilustraciones, pinturas digitales y arte generativo.
+        </ejemplo>
+        
+        <!-- Segundo ejemplo de uso -->
+        <ejemplo>
+            También se puede utilizar para marcar esculturas digitales, modelos 3D y otras formas de arte visual producidas en medios digitales.
+        </ejemplo>
+    </ejemplosDeUso>
+    
+    <!-- Enlaces a referencias o ejemplos del tag -->
+    <enlaces>
+        <!-- Primer enlace a una página web con más información -->
+        <enlace formato="web">
+            https://www.ejemplo.com/arte-digital
+        </enlace>
+        
+        <!-- Segundo enlace a una galería de arte digital -->
+        <enlace formato="galeria">
+            https://www.ejemplo.com/galeria-arte-digital
+        </enlace>
+        
+        <!-- Tercer enlace a un video tutorial -->
+        <enlace formato="video">
+            https://www.ejemplo.com/tutorial-arte-digital.mp4
+        </enlace>
+    </enlaces>
+</descripcionExtendida>

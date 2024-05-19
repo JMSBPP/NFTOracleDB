@@ -1,0 +1,29 @@
+-20001: El artista no puede calificar su propio NFT.
+ 
+-20002: Imposible eliminar registros en esta tabla.
+ 
+-20003: Imposible poner esos campos nulos.
+ 
+-20004: El subastador no puede hacer ofertas.
+ 
+-20005: No pertenecen al mismo artista, imposible anexar.
+ 
+-20006: NFT en otra colección, solo se puede estar en 1 a la vez.
+ 
+-20007: El nombre ya está en uso.
+ 
+-20008: No se puede vender un NFT perteneciente a una colección.
+ 
+-20009: No se puede modificar ya cerrado el proceso.
+ 
+-20010: Tiene que poner algo para subastar.
+ 
+-20011: No se puede subastar objeto si no es su dueño.
+ 
+-20012: Objeto no existente.
+ 
+-20013: La oferta no puede ser menor que la anterior.
+ 
+-20014: No se puede mantener comprador en NULL.
+-20015: Solo artista puede cambiar nombre
+-20016: Usuario No existe

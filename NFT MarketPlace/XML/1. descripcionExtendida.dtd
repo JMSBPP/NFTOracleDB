@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT descripcionExtendida (descripcion, ejemplosDeUso, enlaces?)>
+<!ELEMENT descripcion (#PCDATA)> <!-- Descripción más detallada sobre el significado del tag como mas "explayada" (NO SE SI ESA PALABRA EXISTE PERDON)-->
+
+<!ELEMENT ejemplosDeUso (ejemplo+)> <!-- Sección que contiene uno o más ejemplos de uso del tag, para entender cosas donde se puede poner el tag o usar de referencia para ponerlo -->
+<!ELEMENT ejemplo (#PCDATA)> <!-- Cada ejemplo de uso del tag -->
+
+<!ELEMENT enlaces (enlace*)> <!-- Sección opcional que contiene cero o más enlaces a referencias o ejemplos del tag -->
+<!ELEMENT enlace (#PCDATA)> <!-- Cada enlace a una referencia o ejemplo tipo para mirar lugares donde podamos aprender o tomar de referencia del tag, ejemplo una foto de una obra o un pdf que explique ese tipo de arte -->
+
+<!ATTLIST enlace formato CDATA #IMPLIED> <!-- Atributo opcional que especifica el tipo o formato del enlace, como png, video, etc.  -->
